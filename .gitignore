@@ -1,5 +1,5 @@
-./DS_Storage
+.DS_Store
 .ipynb_checkpoints
-./Data/
-./early_stage/
+Data/
+early_stage/
 temp-plot.html
